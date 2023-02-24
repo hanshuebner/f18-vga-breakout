@@ -7,3 +7,5 @@ and time consuming.
 
 ![PCB Front](vga-breakout-front.png)
 ![PCB Back](vga-breakout-back.png)
+
+The board has been produced and tested as working.  [Gerber Files](releases/tag/1.0)
