@@ -5,7 +5,7 @@ connector.  It is used to connect an F18A VDP card to a VGA connector
 without having to solder a cable to a VGA connector, which is fiddly
 and time consuming.
 
-![PCB Front](vga-breakout-front.png)
-![PCB Back](vga-breakout-back.png)
+<img alt="PCB Front" src="vga-breakout-front.png" width="200">
+<img alt="PCB Back" src="vga-breakout-back.png" width="200">
 
 The board has been produced and tested as working.  [Gerber Files](releases/tag/1.0)
