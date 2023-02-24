@@ -8,4 +8,4 @@ and time consuming.
 <img alt="PCB Front" src="vga-breakout-front.png" width="200">
 <img alt="PCB Back" src="vga-breakout-back.png" width="200">
 
-The board has been produced and tested as working.  [Gerber Files](releases/tag/1.0)
+The board has been produced and tested as working.  [Gerber Files](https://github.com/hanshuebner/f18-vga-breakout/releases/tag/1.0)
